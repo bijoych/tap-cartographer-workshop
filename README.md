@@ -5,6 +5,7 @@ A [Learning Center for VMware Tanzu](https://docs.vmware.com/en/Tanzu-Applicatio
 ## Prerequisites
 
 Set the following env variable:
+
 export git_hostname="github.com"
 export GITOPS_REPOSITORY_USERNAME="bijoych"
 export GITOPS_REPOSITORY_PASSWORD="<GITHUB TOKEN>"
