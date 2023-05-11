@@ -5,10 +5,11 @@ A [Learning Center for VMware Tanzu](https://docs.vmware.com/en/Tanzu-Applicatio
 ## Prerequisites
 
 Set the following env variable:
-
+```
 export git_hostname="github.com"
 export GITOPS_REPOSITORY_USERNAME="bijoych"
 export GITOPS_REPOSITORY_PASSWORD="<GITHUB TOKEN>"
+```
 
 - A TAP 1.1 environment with OOTB Testing/Scanning Supply Chain installed
 - [Gitea](https://gitea.io) for the creation of Git repositories for each session
